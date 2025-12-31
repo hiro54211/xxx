@@ -1,0 +1,5 @@
+{
+  "name": "JoJo Stand Awakening",
+  "description": "A JoJo's Bizarre Adventure inspired app that analyzes your spirit and generates your unique Stand, including stats, abilities, and a visual representation using Gemini AI.",
+  "requestFramePermissions": []
+}
